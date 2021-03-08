@@ -5,3 +5,8 @@ dosaaaaa
 dosa0202
 dosaIJD9JD2KO
 bbbbbbbpoalal
+
+X-Powered-By: PHP
+X-Powered-By: nodejs
+Python/2.
+Python/3.
